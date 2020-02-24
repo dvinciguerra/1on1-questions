@@ -18,7 +18,7 @@ Este projeto pretende manter uma lista de perguntas que podem ser utilizadas em 
 
 ## O que são reuniões 1-on-1?
 
-Reuniões 1-on-1 são antes de mais nada uma reunião de alingamento entre duas pessoas.
+Reuniões 1-on-1 são antes de mais nada uma reunião de alinhamento entre duas pessoas.
 
 Baseado na minha experiência atual, as reuniões de 1-on-1 são feitas com periodicidade regular e abordam diferentes questões importantes (pessoais e/ou profissionais) que tendem a melhorar a comunicação entre duas pessoas (geralmente liderança e individuo liderado).
 
