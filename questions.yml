@@ -80,7 +80,7 @@
   created_at: '2017-11-18T14:26:13.950Z'
   updated_at: '2017-11-18T14:26:13.950Z'
 - id: 322
-  question: Are there any obstacles I can remove for you?
+  question: Existe algum impedimento que eu possa ajudar removendo?
   category: About Manager
   created_at: '2017-11-18T14:26:13.953Z'
   updated_at: '2017-11-18T14:26:13.953Z'
@@ -115,27 +115,22 @@
   created_at: '2017-11-18T14:26:13.982Z'
   updated_at: '2017-11-18T14:26:13.982Z'
 - id: 329
-  question: What additional resources can I provide for you between now and the next
-    time we meet?
+  question: Que outros recursos eu posso providenciar para você até nossa próxima reunião?
   category: About Manager
   created_at: '2017-11-18T14:26:13.995Z'
   updated_at: '2017-11-18T14:26:13.995Z'
 - id: 330
-  question: I�ve noticed that our last several 1-on-1s have stayed pretty surface.
-    What are your honest impressions of this meeting? What could we be doing differently
-    or better?
+  question: Qual a sua honesta impressão sobre nossas reuniões? O que poderíamos fazer diferente ou melhor?
   category: About Manager
   created_at: '2017-11-18T14:26:13.998Z'
   updated_at: '2017-11-18T14:26:13.998Z'
 - id: 331
-  question: What would you like to see change about these discussions? How could we
-    make them more useful for you?
+  question: O que você acha que poderiamos mudar nas nossas discuções? Como elas poderiam ser mais uteis para você?
   category: About Manager
   created_at: '2017-11-18T14:26:14.009Z'
   updated_at: '2017-11-18T14:26:14.009Z'
 - id: 332
-  question: I�m trying to make my 1-on-1s better and would appreciate your honest
-    feedback on this one � what did you like about it, and what could be improved?
+  question: Estou tentando tornar nossas 1-on-1s melhores e gostaria do seu feedback honesto nisso. O que você acha disso e o que poderia ser melhorado?
   category: About Manager
   created_at: '2017-11-18T14:26:14.013Z'
   updated_at: '2017-11-18T14:26:14.013Z'
@@ -223,22 +218,22 @@
   created_at: '2017-11-18T14:26:14.121Z'
   updated_at: '2017-11-18T14:26:14.121Z'
 - id: 352
-  question: What can I do for you that I'm not?
+  question: O que eu posso fazer por você que eu não faço?
   category: About Manager
   created_at: '2017-11-18T14:26:14.128Z'
   updated_at: '2017-11-18T14:26:14.128Z'
 - id: 355
-  question: What can I do better or differently as your manager to support you?
+  question: O que eu posso fazer melhor ou diferente como seu lider para lhe ajudar?
   category: About Manager
   created_at: '2017-11-18T14:26:14.146Z'
   updated_at: '2017-11-18T14:26:14.146Z'
 - id: 356
-  question: How could I do a better job communicating with you?
+  question: Como eu posso fazer um trabalho melhor de comunicação com você?
   category: About Manager
   created_at: '2017-11-18T14:26:14.149Z'
   updated_at: '2017-11-18T14:26:14.149Z'
 - id: 357
-  question: What do you want to be doing in 5 years? 10 years? 3 years?
+  question: O que você quer estar fazendo em 5 anos? 10 anos? 3anos?
   category: Career development
   created_at: '2017-11-18T14:26:14.152Z'
   updated_at: '2017-11-18T14:26:14.152Z'
@@ -248,28 +243,27 @@
   created_at: '2017-11-18T14:26:14.155Z'
   updated_at: '2017-11-18T14:26:14.155Z'
 - id: 359
-  question: What are your super powers? What powers would you like to develop?
+  question: Qual é o seu super poder? Qual super poder você gostaria de desenvolver?
   category: Career development
   created_at: '2017-11-18T14:26:14.166Z'
   updated_at: '2017-11-18T14:26:14.166Z'
 - id: 360
-  question: What do you want to do in your next job?
+  question: O que você gostaria de fazer no seu próximo trabalho?
   category: Career development
   created_at: '2017-11-18T14:26:14.171Z'
   updated_at: '2017-11-18T14:26:14.171Z'
 - id: 361
-  question: What skills would you like to develop right now?
+  question: Que skills você gostaria de desenvolver agora?
   category: Career development
   created_at: '2017-11-18T14:26:14.175Z'
   updated_at: '2017-11-18T14:26:14.175Z'
 - id: 362
-  question: What additional training or education would you like?
+  question: Que treinamento ou curso adicional você gostaria de fazer?
   category: Career development
   created_at: '2017-11-18T14:26:14.186Z'
   updated_at: '2017-11-18T14:26:14.186Z'
 - id: 363
-  question: Do you feel like you�re making progress on your big goals here? Why or
-    why not?
+  question: Você sente que esta fazendo progressos em suas "big goals" aqui? Porque ou porque não?
   category: Career development
   created_at: '2017-11-18T14:26:14.189Z'
   updated_at: '2017-11-18T14:26:14.189Z'
@@ -279,13 +273,12 @@
   created_at: '2017-11-18T14:26:14.192Z'
   updated_at: '2017-11-18T14:26:14.192Z'
 - id: 365
-  question: Do you feel we�re helping you advance your career at a pace you would
-    like?
+  question: Você sente que estamos lhe ajudando a desenvolver sua carreira na velocidade que você gostaria?
   category: Career development
   created_at: '2017-11-18T14:26:14.203Z'
   updated_at: '2017-11-18T14:26:14.203Z'
 - id: 366
-  question: What are your big dreams in life? Are you making progress on them?
+  question: Qual seu grande sonho? Está progredindo para alcaça-lo?
   category: Career development
   created_at: '2017-11-18T14:26:14.205Z'
   updated_at: '2017-11-18T14:26:14.205Z'
@@ -296,13 +289,12 @@
   created_at: '2017-11-18T14:26:14.208Z'
   updated_at: '2017-11-18T14:26:14.208Z'
 - id: 369
-  question: Are there any events or training you�d like to attend to help you grow
-    your skills?
+  question: Existem eventos ou treinamentos que você gostaria de fazer para aprimorar suas skills?
   category: Career development
   created_at: '2017-11-18T14:26:14.222Z'
   updated_at: '2017-11-18T14:26:14.222Z'
 - id: 370
-  question: Who in the company would you like to learn from? What do you want to learn?
+  question: De quem na empresa você gostaria de ter mentoria? O que você gostaria de aprender?
   category: Career development
   created_at: '2017-11-18T14:26:14.225Z'
   updated_at: '2017-11-18T14:26:14.225Z'
