@@ -28,6 +28,10 @@ Hoje julgo 1-on-1's como sendo uma parte indispensável na cotidiano dos times d
 
 [Sobre o Líder](#sobre-o-líder)
 
+[Desenvolvimento de Carreira](#desenvolvimento-de-carreira)
+
+[Iniciando Conversas](#iniciando-conversas)
+
 
 
 ### Sobre o Líder
@@ -118,6 +122,22 @@ Hoje julgo 1-on-1's como sendo uma parte indispensável na cotidiano dos times d
 * O que posso fazer de melhor ou diferente como seu líder para apoiá-lo?
   
 * Como eu poderia melhorar a comunicação que tenho com você?
+  
+
+### Desenvolvimento de Carreira
+
+  
+* O que você quer estar fazendo em 5 anos? 10 anos? 3anos?
+  
+* Quais são seus objetivos de longo prazo? Já pensou sobre eles?
+  
+
+### Iniciando Conversas
+
+  
+* Me conte algo...
+  
+* Como você está? Como está a vida fora do trabalho?
   
 
 
