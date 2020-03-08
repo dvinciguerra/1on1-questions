@@ -44,7 +44,7 @@ Hoje julgo 1-on-1's como sendo uma parte indispensável na cotidiano dos times d
 ## Lista de Perguntas
 
 <% categories.each do |category| %>
-[<%= category %>](#<%= category %>)
+[<%= category %>](#<%= category.downcase.gsub(/\s+/, '-') %>)
 <% end %>
 
 <% categories.each do |category| %>

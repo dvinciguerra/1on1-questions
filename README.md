@@ -26,7 +26,7 @@ Hoje julgo 1-on-1's como sendo uma parte indispensável na cotidiano dos times d
 ## Lista de Perguntas
 
 
-[Sobre o Líder](#Sobre o Líder)
+[Sobre o Líder](#sobre-o-líder)
 
 
 
