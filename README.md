@@ -7,7 +7,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4-blue">
     </a>
-    <a href="https://github.com/GouveaHeitor/nipe/blob/master/LICENSE.md">
+    <a href="https://github.com/dvinciguerra/1on1-questions/blob/master/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-blue.svg">
     </a>
   </p>
